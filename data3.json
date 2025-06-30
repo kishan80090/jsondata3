@@ -1,106 +1,102 @@
 [
     {
-    "ques_no": "1",
-        "question":"Which of the following is not a Java feature?",
-        "a":"Object-oriented",
-        "b":"Use of pointers",
-        "c":"Portable",
-        "d":"Dynamic",
-        "correct":"b",
-        "answer":"e"
+        "ques_no": "1",
+        "question": "What does HTML stand for?",
+        "a": "Hyper Trainer Marking Language",
+        "b": "HyperText Markup Language",
+        "c": "HyperText Machine Language",
+        "d": "HighText Marking Language",
+        "correct": "b",
+        "answer": "e"
     },
     {
         "ques_no": "2",
-        "question":"What is the size of an int variable in java?",
-        "a":"4 bytes",
-        "b":"2 bytes",
-        "c":"8 bytes",
-        "d":"Depends on the system",
-        "correct":"a",
-        "answer":"e"
+        "question": "Which tag is used to create a hyperlink in HTML?",
+        "a": "<link>",
+        "b": "<a>",
+        "c": "<href>",
+        "d": "<hyperlink>",
+        "correct": "b",
+        "answer": "e"
     },
     {
         "ques_no": "3",
-        "question":"Which method is the entry point of Java program?",
-        "a":"start()",
-        "b":"main()",
-        "c":"run()",
-        "d":"init",
-        "correct":"b",
-        "answer":"e"
+        "question": "Which HTML tag is used to display a picture on a webpage?",
+        "a": "<picture>",
+        "b": "<image>",
+        "c": "<img>",
+        "d": "<src>",
+        "correct": "c",
+        "answer": "e"
     },
     {
         "ques_no": "4",
-        "question":"Which of the following is used to handle exceptions in Java?",
-        "a":"catch",
-        "b":"throw",
-        "c":"try",
-        "d":"All of the above",
-        "correct":"d",
-        "answer":"e"
+        "question": "What is the correct HTML element for inserting a line break?",
+        "a": "<break>",
+        "b": "<lb>",
+        "c": "<br>",
+        "d": "<line>",
+        "correct": "c",
+        "answer": "e"
     },
     {
         "ques_no": "5",
-        "question":"Java is a ___________ language",
-        "a":"Compiled",
-        "b":"interpreted",
-        "c":"Both Compiled and interpreted",
-        "d":"None of the above",
-        "correct":"c",
-        "answer":"e"
+        "question": "Which tag is used to define an unordered list in HTML?",
+        "a": "<ul>",
+        "b": "<ol>",
+        "c": "<li>",
+        "d": "<list>",
+        "correct": "a",
+        "answer": "e"
     },
     {
         "ques_no": "6",
-        "question":"Which of these is not a valid data type in java?",
-        "a":"int",
-        "b":"float",
-        "c":"real",
-        "d":"boolean",
-        "correct":"c",
-        "answer":"e"
+        "question": "Which attribute is used in HTML to name an element uniquely?",
+        "a": "class",
+        "b": "id",
+        "c": "style",
+        "d": "name",
+        "correct": "b",
+        "answer": "e"
     },
     {
         "ques_no": "7",
-        "question":"Which of the following loops in Java is entry-controlled?",
-        "a":"do-while",
-        "b":"while",
-        "c":"both A and B",
-        "d":"none",
-        "correct":"b",
-        "answer":"e"
+        "question": "Which tag is used to insert a horizontal rule in HTML?",
+        "a": "<hr>",
+        "b": "<line>",
+        "c": "<br>",
+        "d": "<rule>",
+        "correct": "a",
+        "answer": "e"
     },
     {
         "ques_no": "8",
-        "question":"What is the default value of a local variable in java?",
-        "a":"0",
-        "b":"null",
-        "c":"Depends on the data type",
-        "d":"No default value (must be initialized)",
-        "correct":"d",
-        "answer":"e"
-        
+        "question": "Which HTML tag is used to make text bold?",
+        "a": "<bold>",
+        "b": "<strong>",
+        "c": "<b>",
+        "d": "Both B and C",
+        "correct": "d",
+        "answer": "e"
     },
     {
         "ques_no": "9",
-        "question":"Which of these keywords is used to define a class in Java?",
-        "a":"define",
-        "b":"class",
-        "c":"object",
-        "d":"void",
-        "correct":"b",
-        "answer":"e"
-        
-
+        "question": "What is the correct HTML for creating a checkbox?",
+        "a": "<input type='checkbox'>",
+        "b": "<check>",
+        "c": "<checkbox>",
+        "d": "<input checkbox>",
+        "correct": "a",
+        "answer": "e"
     },
     {
         "ques_no": "10",
-        "question":"Which method is used to start a thread in Java?",
-        "a":"run()",
-        "b":"start()",
-        "c":"execute()",
-        "d":"init()",
-        "correct":"b",
-        "answer":"e"
-        
+        "question": "Which HTML tag is used to define a table row?",
+        "a": "<td>",
+        "b": "<tr>",
+        "c": "<table>",
+        "d": "<th>",
+        "correct": "b",
+        "answer": "e"
     }
 ]
