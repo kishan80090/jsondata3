@@ -1,0 +1,106 @@
+[
+    {
+    "ques_no": "1",
+        "question":"Which of the following is not a Java feature?",
+        "a":"Object-oriented",
+        "b":"Use of pointers",
+        "c":"Portable",
+        "d":"Dynamic",
+        "correct":"b",
+        "answer":"e"
+    },
+    {
+        "ques_no": "2",
+        "question":"What is the size of an int variable in java?",
+        "a":"4 bytes",
+        "b":"2 bytes",
+        "c":"8 bytes",
+        "d":"Depends on the system",
+        "correct":"a",
+        "answer":"e"
+    },
+    {
+        "ques_no": "3",
+        "question":"Which method is the entry point of Java program?",
+        "a":"start()",
+        "b":"main()",
+        "c":"run()",
+        "d":"init",
+        "correct":"b",
+        "answer":"e"
+    },
+    {
+        "ques_no": "4",
+        "question":"Which of the following is used to handle exceptions in Java?",
+        "a":"catch",
+        "b":"throw",
+        "c":"try",
+        "d":"All of the above",
+        "correct":"d",
+        "answer":"e"
+    },
+    {
+        "ques_no": "5",
+        "question":"Java is a ___________ language",
+        "a":"Compiled",
+        "b":"interpreted",
+        "c":"Both Compiled and interpreted",
+        "d":"None of the above",
+        "correct":"c",
+        "answer":"e"
+    },
+    {
+        "ques_no": "6",
+        "question":"Which of these is not a valid data type in java?",
+        "a":"int",
+        "b":"float",
+        "c":"real",
+        "d":"boolean",
+        "correct":"c",
+        "answer":"e"
+    },
+    {
+        "ques_no": "7",
+        "question":"Which of the following loops in Java is entry-controlled?",
+        "a":"do-while",
+        "b":"while",
+        "c":"both A and B",
+        "d":"none",
+        "correct":"b",
+        "answer":"e"
+    },
+    {
+        "ques_no": "8",
+        "question":"What is the default value of a local variable in java?",
+        "a":"0",
+        "b":"null",
+        "c":"Depends on the data type",
+        "d":"No default value (must be initialized)",
+        "correct":"d",
+        "answer":"e"
+        
+    },
+    {
+        "ques_no": "9",
+        "question":"Which of these keywords is used to define a class in Java?",
+        "a":"define",
+        "b":"class",
+        "c":"object",
+        "d":"void",
+        "correct":"b",
+        "answer":"e"
+        
+
+    },
+    {
+        "ques_no": "10",
+        "question":"Which method is used to start a thread in Java?",
+        "a":"run()",
+        "b":"start()",
+        "c":"execute()",
+        "d":"init()",
+        "correct":"b",
+        "answer":"e"
+        
+    }
+]
